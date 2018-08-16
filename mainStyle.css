@@ -4,7 +4,7 @@ body {
 }
 
 header {
-    background-color: white;
+    background-color: beige;
 }
 
 ul {
@@ -21,4 +21,20 @@ li {
 }
 p {
     font-size: 24px;
+}
+
+
+.Skills {
+    display: inline-grid;
+    border: 2px black solid;
+    height: 75%;
+    width: 50%;
+    grid-template: 20% 80% / auto auto auto;
+    align-self: right;
+}
+
+.box {
+    background-color: blue;
+    color: orange;
+    border: 2px black;
 }
