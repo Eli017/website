@@ -27,8 +27,8 @@ p {
 .Skills {
     display: inline-grid;
     border: 2px black solid;
-    height: 75%;
-    width: 50%;
+    height: 100%;
+    width: 55%;
     grid-template: 20% 80% / auto auto auto;
     align-self: right;
 }
@@ -37,4 +37,11 @@ p {
     background-color: blue;
     color: orange;
     border: 2px black;
+    font-size: 40px;
+    text-align: center;
+}
+
+.a {
+    grid-column-start: 1;
+    grid-column-end: 4;
 }
