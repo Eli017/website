@@ -30,6 +30,10 @@ p {
     text-align: center;
 }
 
+footer {
+    background-color: rgb(255, 183, 102);
+}
+
 .front-page{
     padding-left: 25px;
 }
