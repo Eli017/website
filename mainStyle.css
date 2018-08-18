@@ -79,6 +79,7 @@ footer {
 
 #main-photo {
     padding-bottom: 50px;
+    padding-top: 15px;
 }
 
 #personal-photo {
@@ -87,6 +88,6 @@ footer {
     height: 600px;
     align-content: center;
     padding-right: 10%;
-    padding-top: 7%;
+    padding-top: 3%;
     padding-bottom: 10%;
 }
